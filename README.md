@@ -1,1 +1,1 @@
-# PCB-Design-of-array-of-8x8-LED-matrices
+The given Brd and Sch files are used for PCB designing on Eagle Software. Further more there is a detailed project report website using html, you can also use it for learning purpose. The SMD that was used was MAX7219 IC and code was according to that. U can change the code according to you own need as you want.  # PCB-Design-of-array-of-8x8-LED-matrices
